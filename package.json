@@ -1,0 +1,14 @@
+{
+  "name": "aws-kiniesis-data-stream",
+  "version": "1.0.0",
+  "description": "Demo for saving data and getting data from Kinisis data stream using Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atef",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1464.0"
+  }
+}
